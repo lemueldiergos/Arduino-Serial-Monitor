@@ -14,3 +14,5 @@ You can either run this in CMD
 <p>
   -There are still some bugs in the code, since I didn't continue developing it. <br>You can use this code as reference or idea in you project.  
 </p>
+ <h3>Preview:</h3>
+<img src="preview/capture.JPG" width="250"/>
